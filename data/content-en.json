@@ -1,0 +1,323 @@
+{
+    "site": {
+        "practice_tagline": "DENTAL PRACTICE FOR THE WHOLE FAMILY",
+        "doctor_title": "Dentist",
+        "address_line3": "Germany",
+        "hours_line1": "Mon, Tue, Thu: 09:00–13:00, 14:30–18:00",
+        "hours_line2": "Wed, Fri: 09:00–13:30",
+        "hours_line3": "and by appointment",
+        "footer_tagline": "Your dental care in familiar and new hands.",
+        "copyright": "© 2026 OMO.DENT — All rights reserved."
+    },
+    "nav": {
+        "home": "Home",
+        "leistungen": "Services",
+        "ueber_mich": "About me",
+        "team": "Our Team"
+    },
+    "ui": {
+        "nav_appointment": "Appointment",
+        "menu_toggle": "Open menu",
+        "footer_contact": "Contact",
+        "footer_hours": "Opening hours",
+        "footer_privacy": "Privacy policy",
+        "footer_imprint": "Legal notice",
+        "label_address": "Address",
+        "label_phone": "Phone",
+        "label_fax": "Fax",
+        "label_email": "Email",
+        "hero_img_alt": "Family at the dentist",
+        "stat_services": "Our\nservices",
+        "stat_qualifications": "Qualifications",
+        "stat_personal": "Personal care",
+        "about_eyebrow": "About {practice}",
+        "services_eyebrow": "Our services",
+        "read_more": "Learn more",
+        "map_title": "{practice} location",
+        "pdf_modal_title": "Download documents",
+        "pdf_soon": "Coming soon",
+        "pdf_not_uploaded": "This file has not been uploaded yet",
+        "close": "Close",
+        "form_name": "First name / Last name",
+        "form_first": "First name",
+        "form_last": "Last name",
+        "form_phone": "Phone",
+        "form_email": "Email address",
+        "form_email_ph": "your.email@example.com",
+        "form_patient": "Are you already a patient?",
+        "form_select": "Select an option",
+        "form_yes": "Yes, I am already a patient",
+        "form_no": "No, I am not a patient yet",
+        "form_file": "Upload a file",
+        "form_file_hint": "If you would like to send us a document, you can upload it here.",
+        "form_file_add": "Add file",
+        "form_message": "Message",
+        "form_message_ph": "How can we help you?",
+        "form_submit": "Send message",
+        "msg_sending": "Sending …",
+        "msg_success": "Your enquiry has been sent successfully.",
+        "msg_required": "Please fill in all required fields.",
+        "msg_email": "Please enter a valid email address.",
+        "msg_error": "An error occurred while sending. Please try again.",
+        "msg_invalid": "Invalid request.",
+        "back_services": "Back to services",
+        "what_is": "{title} at a glance",
+        "our_approach": "Our approach at {practice}",
+        "faq_title": "Frequently asked questions",
+        "gallery_title": "Gallery",
+        "gallery_sub": "More impressions of {title}.",
+        "meta_services": "Dentistry for the whole family at {practice} — from children's dentistry to periodontology.",
+        "meta_about": "Get to know {doctor}, your dentist at {practice}.",
+        "meta_team": "Get to know the practice team of {practice}."
+    },
+    "home": {
+        "welcome_title": "WELCOME!",
+        "hero_title": "Healthy teeth. For a lifetime.",
+        "hero_text": "Welcome to OMO.DENT – your dental practice for the whole family. At OMO.DENT, you and your dental health are our focus.",
+        "hero_button": "Book an appointment With Dr-Flex",
+        "features": [
+            {
+                "title": "Personal & trustworthy",
+                "desc": "We take time for you – with honest advice and treatment on equal terms."
+            },
+            {
+                "title": "For the whole family",
+                "desc": "From the very first baby tooth into old age: children, parents and seniors are equally welcome with us."
+            },
+            {
+                "title": "Modern dentistry",
+                "desc": "Careful diagnostics and individually tailored treatment concepts based on the current state of dentistry."
+            }
+        ],
+        "intro_eyebrow": "Our philosophy",
+        "intro_title": "Personal care, healthy together",
+        "intro_paragraphs": [
+            "We want children, adults and seniors alike to feel in good hands with us – personally, with trust and in a pleasant atmosphere.",
+            "With modern dentistry, careful diagnostics and individually tailored treatment concepts, we accompany you on your long-term path to healthy and beautiful teeth.",
+            "From regular check-ups and tooth preservation to endodontics and aesthetic dentistry, as well as high-quality dentures, implantology and children's dentistry, we offer a wide range of treatments."
+        ],
+        "intro_closing": "Our goal: healthy teeth, a good feeling and a smile you are happy to show.",
+        "services_title": "Our services",
+        "services_subtitle": "Dentistry for every age — from the first baby-tooth check-up to implant treatment.",
+        "services_link_text": "Discover all services",
+        "about_preview_title": "Meet your new dentist",
+        "about_preview_text": "Mr. Mustermann has taken over the practice from Dr. Beispiel and continues it with the same commitment to quality and personal care — with the familiar team and the usual attention to detail.",
+        "about_preview_button": "More about me",
+        "contact_title": "Contact & directions",
+        "contact_subtitle": "We look forward to seeing you — write to us or visit us directly at the practice.",
+        "contact_info_title": "How to reach us",
+        "form_title": "Send a message",
+        "form_subtitle": "Fill in the form and we will get back to you as soon as possible."
+    },
+    "pdf_downloads": {
+        "button_text": "Forms (PDF)",
+        "items": [
+            {
+                "name": "Patient information"
+            },
+            {
+                "name": "Medical history form"
+            },
+            {
+                "name": "Declaration of consent"
+            },
+            {
+                "name": "Price list"
+            }
+        ]
+    },
+    "leistungen": {
+        "hero_title": "Our services",
+        "hero_text": "At OMO.DENT we offer modern dentistry for the whole family — caring, thorough and up to date with the latest technology.",
+        "tech_title": "Modern technology for your health",
+        "tech_paragraphs": [
+            "In our practice we rely on modern diagnostic and therapeutic procedures to offer you and your family the best possible treatment.",
+            "From digital X-ray diagnostics to gentle treatment techniques — we combine proven experience with up-to-date equipment.",
+            "This way you benefit from precise diagnoses, gentle procedures and the highest level of treatment safety."
+        ],
+        "services": {
+            "s68717dad": {
+                "title": "Prophylaxis",
+                "subtitle": "Professional preventive care for healthy teeth in the long term.",
+                "summary": "Professional preventive care for healthy teeth in the long term.",
+                "what_is": "Regular prophylaxis helps to keep teeth and gums healthy and to prevent disease at an early stage. Depending on individual needs, this includes professional teeth cleaning, the removal of hard and soft deposits, and personal advice on optimal oral hygiene at home.",
+                "approach": "Our goal is to reduce the risk of tooth decay and gum disease and to keep your natural teeth healthy for as long as possible.",
+                "faqs": {
+                    "f37558d13": {
+                        "q": "How often should professional teeth cleaning be done?",
+                        "a": "For the whole family we recommend professional teeth cleaning every 6 months.\nIn case of gum disease (periodontitis) we recommend shorter intervals of every 3-4 months."
+                    },
+                    "f59bd98e9": {
+                        "q": "What does the check-up include?",
+                        "a": "Examination for tooth decay and gum disease, oral hygiene advice and, if necessary, X-ray diagnostics."
+                    },
+                    "f20fb79d7": {
+                        "q": "Is prophylaxis also useful for children?",
+                        "a": "Yes – especially in children, early prophylaxis lays the foundation for lifelong dental health."
+                    }
+                }
+            },
+            "s450fc6b3": {
+                "title": "Tooth preservation",
+                "subtitle": "Modern treatment with the aim of preserving natural teeth for as long as possible.",
+                "summary": "Modern treatment with the aim of preserving natural teeth for as long as possible.",
+                "what_is": "Tooth preservation covers various measures that stabilise damaged or diseased teeth and maintain their function. These can include high-quality fillings, the repair of smaller defects and other tooth-preserving treatments.",
+                "approach": "We decide which therapy makes sense individually, after a careful examination, and in a way that preserves as much tooth substance as possible.",
+                "faqs": {
+                    "feda70d5c": {
+                        "q": "When is a tooth-preserving treatment advisable?",
+                        "a": "Whenever a tooth has been damaged by decay or wear but can still be saved."
+                    },
+                    "f8ffba03d": {
+                        "q": "Which materials are used for fillings?",
+                        "a": "We use high-quality, tooth-coloured filling materials for a natural result."
+                    },
+                    "f9de7cdfb": {
+                        "q": "How long does a filling last?",
+                        "a": "With good care, modern fillings last many years — the exact durability depends on the individual case."
+                    }
+                }
+            },
+            "sb63707d2": {
+                "title": "Endodontics",
+                "subtitle": "Root canal treatment to save inflamed or damaged teeth.",
+                "summary": "Root canal treatment to save inflamed or damaged teeth.",
+                "what_is": "When the dental nerve becomes inflamed or dies, root canal treatment can often save the affected tooth. The root canals are carefully cleaned, disinfected and then tightly sealed.",
+                "approach": "Modern procedures allow precise treatment with the aim of eliminating discomfort and preserving your own tooth in the long term.",
+                "faqs": {
+                    "f8340d8d0": {
+                        "q": "When is a root canal treatment necessary?",
+                        "a": "When the dental pulp is inflamed or infected due to deep decay or an injury."
+                    },
+                    "f4634c22e": {
+                        "q": "Does a root canal treatment hurt?",
+                        "a": "Thanks to modern anaesthesia, the procedure is usually almost painless."
+                    },
+                    "fe9d35548": {
+                        "q": "How many appointments are needed?",
+                        "a": "Usually 3 appointments, depending on the complexity of the case."
+                    }
+                }
+            },
+            "s175ec0ca": {
+                "title": "Aesthetic dentistry",
+                "subtitle": "For a naturally beautiful, harmonious smile.",
+                "summary": "For a naturally beautiful, harmonious smile.",
+                "what_is": "Aesthetic dentistry combines dental health with an attractive appearance. Depending on the initial situation, options such as bleaching, aesthetic composite fillings or veneers may be considered.",
+                "approach": "Our focus is always on a result that suits your face, your tooth shape and your personal wishes while looking as natural as possible.",
+                "faqs": {
+                    "f65464ec3": {
+                        "q": "Which treatments does this include?",
+                        "a": "Bleaching, veneers and tooth-coloured fillings for a naturally beautiful smile."
+                    },
+                    "f3ed915ad": {
+                        "q": "Is bleaching harmful to tooth enamel?",
+                        "a": "When performed professionally, bleaching is gentle on the tooth enamel."
+                    },
+                    "fba2f3953": {
+                        "q": "How long does the result last?",
+                        "a": "Depending on care and lifestyle, a whitening result lasts 1-3 years."
+                    }
+                }
+            },
+            "scf947975": {
+                "title": "Periodontology",
+                "subtitle": "Healthy gums for strong tooth support.",
+                "summary": "Targeted treatment of gum inflammation and periodontitis to preserve your teeth in the long term.",
+                "what_is": "Periodontology deals with the health of the gums and the entire tooth-supporting apparatus. Untreated periodontitis can lead to loss of jawbone and, in the long run, to the loss of teeth. Early diagnosis and individual treatment help to stop the disease and maintain oral health in the long term.",
+                "approach": "At OMO.DENT we rely on careful diagnostics, individually tailored treatment and consistent aftercare. We take into account the condition of the gums, oral hygiene and personal risk factors. Our goal is to reduce inflammation, stabilise the tooth-supporting apparatus and preserve your natural teeth for as long as possible.",
+                "faqs": {
+                    "f96bf8ea0": {
+                        "q": "How do I recognise periodontitis?",
+                        "a": "Typical signs are bleeding gums, red or swollen gums, receding gums, bad breath, or sensitive and loosening teeth. As periodontitis often causes hardly any symptoms at first, regular check-ups are particularly important."
+                    },
+                    "f52535c33": {
+                        "q": "How is periodontitis treated?",
+                        "a": "First, the condition of the gums and the tooth-supporting apparatus is examined thoroughly. Depending on the findings, bacterial plaque and deposits above and below the gum line are removed and oral hygiene is specifically improved. The treatment result is then checked and secured in the long term through regular aftercare."
+                    },
+                    "f7090d5cf": {
+                        "q": "Can I prevent periodontitis?",
+                        "a": "The risk can be reduced considerably through thorough daily oral hygiene, cleaning between the teeth, regular dental check-ups and professional support where needed. Giving up smoking can also have a positive effect on the risk and the course of the disease."
+                    }
+                }
+            },
+            "s6183ae6d": {
+                "title": "Dental check-ups for children",
+                "subtitle": "Healthy children's teeth from the very beginning.",
+                "summary": "Early preventive care protects children's teeth from decay and lays the foundation for lifelong dental health.",
+                "what_is": "Dental care for children includes regular dental examinations, monitoring of tooth development, and individual advice on oral hygiene and nutrition. Depending on age and caries risk, additional measures such as fluoridation or fissure sealing may be useful. This way, problems can be detected and treated at an early stage.",
+                "approach": "We want children to experience visiting the dentist as something positive right from the start. That is why we value a child-friendly, sensitive examination and explain every step in an understandable way. Together with the parents, we develop a suitable prevention strategy so that teeth and gums stay healthy and children feel safe at the dentist.",
+                "faqs": {
+                    "f046a0a09": {
+                        "q": "From what age should my child see the dentist?",
+                        "a": "Dental check-ups should begin in early childhood. Early examinations help to monitor tooth development, assess the risk of decay and advise parents on oral hygiene and nutrition at an early stage."
+                    },
+                    "fc70c7080": {
+                        "q": "How can I prevent tooth decay in my child?",
+                        "a": "Regular brushing with a suitable fluoride toothpaste, a tooth-friendly diet and regular check-ups are important building blocks of caries prevention. Depending on age and individual caries risk, fluoride varnish or other preventive measures may also be useful."
+                    },
+                    "fb6bc8821": {
+                        "q": "What is fissure sealing and when is it useful?",
+                        "a": "In fissure sealing, deep grooves and pits on the chewing surfaces of certain back teeth are sealed with a special resin. This means fewer bacteria and food residues can settle there. For children with permanent molars that are particularly prone to decay, this usually painless measure can be useful."
+                    }
+                }
+            }
+        }
+    },
+    "ueber_mich": {
+        "intro_title": "WELCOME!",
+        "hero_title": "About me",
+        "paragraphs": [
+            "About me",
+            "Dr. Max Mustermann is the dentist in charge of the practice. (Sample text – the real text is managed in the dashboard.)",
+            "In July 2021, I successfully completed my dental studies at Heinrich Heine University Düsseldorf with the state examination. In August 2021, I received my licence to practise as a dentist.",
+            "After my studies, I began working as a dentist and gained valuable professional experience in various dental practices. I also completed the Implantology Curriculum to deepen my knowledge in this field.",
+            "In my daily work, I place particular emphasis on careful diagnostics, clear and honest advice and treatment that is as comfortable as possible. It is important to me that my patients feel well informed, taken seriously and accompanied with trust.",
+            "As a father, a family-friendly atmosphere is particularly close to my heart. This idea is also an important part of the OMO.DENT concept: a modern dental practice in which children, parents and adults feel equally welcome and in good hands.",
+            "I look forward to welcoming you and your family personally at OMO.DENT.",
+            "Dr. Max Mustermann\nDentist"
+        ],
+        "quote": "Dentistry with trust and personal care.",
+        "credentials_title": "Training & areas of focus",
+        "credentials": [
+            "Dental studies and state examination, Heinrich Heine University Düsseldorf",
+            "Further training in endodontics",
+            "Implantology Curriculum"
+        ],
+        "features": [
+            {
+                "title": "Familiar team",
+                "desc": "The well-established practice team is there for you — as always."
+            },
+            {
+                "title": "Proven quality",
+                "desc": "High dental standards, consistently continued."
+            },
+            {
+                "title": "Smooth transition",
+                "desc": "Your treatment is continued seamlessly and carefully."
+            }
+        ]
+    },
+    "team": {
+        "hero_title": "Our Team",
+        "hero_text": "Meet the OMO.DENT practice team — here for you and your family with experience, care and a friendly atmosphere.",
+        "members": {
+            "mc397a2fb": {
+                "role": "Dentist"
+            },
+            "mea0ffe6b": {
+                "description": "Certified dental practice manager, dental prophylaxis assistant (ZMP), quality management officer (QMB).\nFocus: billing management and practice organisation."
+            },
+            "m2e6e74dd": {
+                "description": "Dental assistant (ZFA)\nFocus: chairside assistance, prophylaxis and dental care for kindergartens."
+            },
+            "m5a50f87c": {
+                "description": "Dental assistant (ZFA)\nFocus: prophylaxis and chairside assistance."
+            },
+            "m84d86398": {
+                "description": "Trainee dental assistant (ZFA), 3rd year of training\nFocus: chairside assistance."
+            }
+        }
+    }
+}

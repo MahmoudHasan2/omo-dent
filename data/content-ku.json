@@ -1,0 +1,230 @@
+{
+    "site": {
+        "practice_tagline": "KLÎNÎKA DÎRANAN JI BO TEVAHÎ MALBATÊ",
+        "doctor_title": "Doktorê dîranan",
+        "address_line3": "Almanya",
+        "hours_line1": "Duşem, Sêşem, Pêncşem: 09:00–13:00, 14:30–18:00",
+        "hours_line2": "Çarşem, În: 09:00–13:30",
+        "hours_line3": "û li gorî hevdîtinê",
+        "footer_tagline": "Lênêrîna we ya dîranan bi destên naskirî û destên nû.",
+        "copyright": "© 2026 OMO.DENT — Hemû maf parastî ne."
+    },
+    "nav": {
+        "home": "Mal",
+        "leistungen": "Xizmet",
+        "ueber_mich": "Derbarê min de"
+    },
+    "home": {
+        "welcome_title": "BI XÊR HATIN!",
+        "hero_title": "Dîranên saxlem. Ji bo tevahî jiyanê.",
+        "hero_text": "Bi xêr hatin OMO.DENT – klînîka we ya dîranan ji bo tevahî malbatê. Li OMO.DENT hûn û saxlemiya we ya dîranan di navenda bala me de ne.",
+        "hero_button": "Hevdîtinê diyar bike",
+        "features": [
+            {
+                "title": "Kesane û bi bawerî",
+                "desc": "Em ji bo we demê distînin – bi şêwirmendiya rastdar û dermanê li ser piyan wekhev."
+            },
+            {
+                "title": "Ji bo tevahî malbatê",
+                "desc": "Ji dîrana şîrê ya yekem heta temenê mezin: zarok, dêûbav û kal û pîr hemî li cem me bi xêr tên."
+            },
+            {
+                "title": "Dermanê nûjen a dîranan",
+                "desc": "Teşhîsa baldar û planên dermanê yên ji bo her kesî taybet, li gorî asta herî nû ya dermanê dîranan."
+            }
+        ],
+        "intro_eyebrow": "Felsefeya me",
+        "intro_title": "Lênêrîna kesane, saxlemiya bi hev re",
+        "intro_closing": "Armanca me: dîranên saxlem, hesta baş û keneka ku hûn bi dilovanî nîşan didin.",
+        "services_title": "Xizmetên me",
+        "services_subtitle": "Dermanê dîranan ji bo her temenê — ji kontrolkirina dîrana şîrê ya yekem heta çêkirina dîranan (împlant).",
+        "services_link_text": "Hemû xizmetên keşf bike",
+        "about_preview_title": "Doktorê nû yê xwe nas bike",
+        "about_preview_text": "Êfendî Mustermann klînîkê ji Doktor Beispiel wergerand û bi heman asta kalîteyê û lênêrîna kesane berdewam dike – bi tîma naskirî û baldariya wekî berê.",
+        "about_preview_button": "Zêdetir derbarê min de",
+        "contact_title": "Têkilî & Rê",
+        "contact_subtitle": "Em bi xêr hatin we – ji me re binivîsin an jî rasterast hatin klînîkê.",
+        "contact_info_title": "Çawa bigihîjin me",
+        "form_title": "Peyamê bişîne",
+        "form_subtitle": "Formê dagire û em ê zû li we vegerin.",
+        "intro_paragraphs": [
+            "Em dixwazin zarok, mezin û kal û pîr hemî xwe li cem me his bike — kesane, bi bawerî û di atmosfereke xweş de.",
+            "Bi dermanê nûjen a dîranan, teşhîsa baldar û planên dermanê yên taybet ji bo her kesî, em li ser demeke dirêj we ber bi dîranên saxlem û xweşik ve dişînin.",
+            "Ji kontrola berdewam a pêşîlêgirtinê û parastina dîranan, derbazî dermana rîkê û dermanê bedew a dîranan, heta protezên dîranan ên bi kalîte, çêkirina dîranan û dermanê dîranan ê zarokan — em qada dermanê ya berfireh pêşkêş dikin."
+        ]
+    },
+    "pdf_downloads": {
+        "button_text": "Formên (PDF)",
+        "items": [
+            {
+                "name": "Agahiya Nexweşan"
+            },
+            {
+                "name": "Forma Dîroka Nexweşiyê"
+            },
+            {
+                "name": "Forma Razîbûnê"
+            },
+            {
+                "name": "Lîsteya Bihaneyan"
+            }
+        ]
+    },
+    "leistungen": {
+        "hero_title": "Xizmetên me",
+        "hero_text": "Li OMO.DENT em dermanê nûjen a dîranan ji bo tevahî malbatê pêşkêş dikin — bi hiskirin, baldarî û teknolojiya herî nû.",
+        "tech_title": "Teknolojiya nûjen ji bo saxlemiya we",
+        "tech_paragraphs": [
+            "Di klînîka xwe de em li ser rêbazên nûjen ên teşhîs û dermanê xwedî dilin da ku ji we û malbata we re baştirîn dermanê pêşkêş bikin.",
+            "Ji teşhîsa rontgen a dîjîtal heta teknolojiya dermana nazik — em tecrubeya kevn a bawerîdar û amûrên nûjen bi hev ve girêdidin.",
+            "Bi vî awayî hûn ji teşhîsên pêbawer, operasyonên nazik û asta herî bilind a ewlekariya dermanê sûdê werdigirin."
+        ],
+        "services": {
+            "s68717dad": {
+                "title": "Pêşîlêgirtin",
+                "subtitle": "Pêşîlêgirtina profesyonel ji bo dîranên saxlem ên demeke dirêj.",
+                "summary": "Pêşîlêgirtina profesyonel ji bo dîranên saxlem ên demeke dirêj.",
+                "what_is": "Pêşîlêgirtina berdewam alîkar dibe ku dîran û lêvok saxlem bimînin û nexweziyan ji destpêkê ve bên astengkirin. Ev, li gorî pêdiviya her kesî, paqijkirina profesyonel a dîranan, rakirina kûrahî û pelên nerm, û şêwirmendiya kesane ji bo xweşika devê li malê dihewîne.",
+                "approach": "Armanca me kêmkirina xeterên dîran xirab û nexweziyên lêvokê ye û parastina dîranên we yên xwezayî yên saxlem e.",
+                "faqs": {
+                    "f37558d13": {
+                        "q": "Paqijkirina profesyonel a dîranan divê çend caran were kirin?",
+                        "a": "Ji bo tevahî malbatê em her 6 mehan paqijkirina profesyonel a dîranan pêşniyar dikin."
+                    },
+                    "f59bd98e9": {
+                        "q": "Kontrola pêşîlêgirtinê çi dihewîne?",
+                        "a": "Kontrolkirina dîran xirab û nexweziyên lêvokê, şêwirmendiya xweşika devê û teşhîsa rontgenê heke hewce be."
+                    },
+                    "f20fb79d7": {
+                        "q": "Pêşîlêgirtin ji bo zarokan jî fêdebar e?",
+                        "a": "Erê, bi taybet pêşîlêgirtina destpêkê ya zarokan bingehê saxlemiya dîranan a temamê jiyanê ava dike."
+                    }
+                }
+            },
+            "s450fc6b3": {
+                "title": "Parastina dîranan",
+                "subtitle": "Dermanê nûjen bi armanca parastina dîranên xwezayî yên saxlem ên demeke dirêj.",
+                "summary": "Dermanê nûjen bi armanca parastina dîranên xwezayî yên saxlem ên demeke dirêj.",
+                "what_is": "Parastina dîranan çend tevgirên cihê dihewîne ku dîranên xirab an nexweş xurt dikin û fonksiyona wan diparêzin. Vê dermanên tijîkirinê yên bi kalîte, çareserkirina kêmasiyên biçûk û dermanên din ên parastina dîranan dihewîne.",
+                "approach": "Kîjan derman guncav e, em piştî teşhîsa baldar ji bo her kesî serbixwe, bi awayê herî kêm zirarê diyar dikin.",
+                "faqs": {
+                    "feda70d5c": {
+                        "q": "Kengê dermanê parastina dîranan guncav e?",
+                        "a": "Dema dîranek ji ber dîran xirab an qelşandinê xirab bibe, lê hê jî bibe parastin."
+                    },
+                    "f8ffba03d": {
+                        "q": "Kijan materyal ji bo tijîkirinê tên bikaranîn?",
+                        "a": "Em ji bo encameke xwezayî materyalên tijîkirinê yên bi kalîte û rengê dîranê bikar tînin."
+                    },
+                    "f9de7cdfb": {
+                        "q": "Tijîkirin çend sal dimîne?",
+                        "a": "Bi xweşika baş, tijîkirina nûjen salên dirêj dimîne — dema rastîn li gorî rewşa her kesî ye."
+                    }
+                }
+            },
+            "sb63707d2": {
+                "title": "Dermana rîkê dîranan",
+                "subtitle": "Dermana rîkê ji bo parastina dîranên nexweş an xirab.",
+                "summary": "Dermana rîkê ji bo parastina dîranên nexweş an xirab.",
+                "what_is": "Dema nerva dîranê ya rîkê bi nexweziyê ket yan mir, dermana rîkê pir caran dikarê dîranê xirab biparêze. Rîk dîsa baldar tên paqijkirin, tên dezenfeksiyonkirin û paşê tên girtin.",
+                "approach": "Rêbazên nûjen dermanek a pêbawer dikarin, bi armanca rakirina êşê û parastina dîranê xwe yê xwezayî li ser demeke dirêj.",
+                "faqs": {
+                    "f8340d8d0": {
+                        "q": "Kengê dermana rîkê pêwîst e?",
+                        "a": "Dema dila dîranê (pulp) ji ber dîrana xiraba kûr an birînê bi nexweziyê ket yan enfeksiyon bû."
+                    },
+                    "f4634c22e": {
+                        "q": "Dermana rîkê êşê dide?",
+                        "a": "Bi saya bîhnarkirina nûjen, operasyon bi giştî bê êş e."
+                    },
+                    "fe9d35548": {
+                        "q": "Çend hevdîtin pêwîst in?",
+                        "a": "Bi giştî 1-2 hevdîtin, li gorî giraniya rewşê."
+                    }
+                }
+            },
+            "s175ec0ca": {
+                "title": "Dermanê bedew a dîranan",
+                "subtitle": "Ji bo keneka bedew a lihevhatî û xwezayî.",
+                "summary": "Ji bo keneka bedew a lihevhatî û xwezayî.",
+                "what_is": "Dermanê bedew a dîranan saxlemiya dîranan û dîtina wan a bedew bi hev ve girêdide. Li gorî rewşê, mînakî spîkirin, tijîkirina estetîk an jî veneer dikarin werin berçavkirin.",
+                "approach": "Di navenda balê her dem encamek heye ku ji rûyê we, şekla dîranên we û daxwazên we yên kesane re diguncê û bi awayê herî xwezayî xuya dike.",
+                "faqs": {
+                    "f65464ec3": {
+                        "q": "Kijan dermanan di vê qadê de cih digirin?",
+                        "a": "Spîkirin, veneer û tijîkirina rengê dîranê ji bo keneka xwezayî û bedew."
+                    },
+                    "f3ed915ad": {
+                        "q": "Spîkirin zirarê dide enamelê dîranê?",
+                        "a": "Dema bi awayekî profesyonel were kirin, spîkirin enamela dîranê diparêze."
+                    },
+                    "fba2f3953": {
+                        "q": "Encam çend sal dimîne?",
+                        "a": "Li gorî lênêrînê û awayê jiyanê, encama spîkirinê 1-3 sal dimîne."
+                    }
+                }
+            }
+        }
+    },
+    "ueber_mich": {
+        "intro_title": "BI XÊR HATIN!",
+        "hero_title": "Derbarê min de",
+        "quote": "Dermanê dîranan bi bawerî û lênêrîna kesane.",
+        "credentials_title": "Perwerdeya berdewam & qadên taybet",
+        "credentials": [
+            "Xwendina dermanê dîranan û ezmoana dewletê, Zanîngeha Heinrich Heine Düsseldorf",
+            "Perwerdeyên berdewam li qada dermana rîkê",
+            "Kurîkuluma çêkirina dîranan (Kurriculum Implantologie)"
+        ],
+        "paragraphs": [
+            "Derbarê min de",
+            "Dr. Max Mustermann bijîşkê diranan e û klînîkê birêve dibe. (Nivîsa mînak.)",
+            "Di tîrmeha 2021-an de min xwendina dermanê dîranan li Zanîngeha Heinrich Heine a Düsseldorfê bi serkeftî qedand û ezmoana dewletê girt. Di tebaxa 2021-an de, min mafê pratîkirinê wek doktorê dîranan girt.",
+            "Piştî xwendinê min dest bi karê dermanê dîranan kir û di gelek klînîkan de tecrubeya pîşeyî ya bi nirx berhev kir. Herwiha min Kurîkuluma çêkirina dîranan qedand da ku zanîna xwe di vê qadê de kûrttir bike.",
+            "Di karê rojane de, ez bala taybet didim teşhîsa baldar, şêwirmendiya ron û rastdar û dermana herî rehet. Ji bo min girîng e ku nexweşên min xwe his bikin ku wan agahdarî temam hene, ji aliyê min ve bi rêz tên girtin û bi bawerî tên rêvebirn.",
+            "Wekî bavekî malbatê, atmosfereke malbatê ya germ ji bo min bi taybet girîng e. Ev fikr ji bo ramanê OMO.DENT jî beşek girîng e: klînîkeke dîranan a nûjen, ku zarok, dêûbav û mezin hemî xwe têde wekhev bi xêr hîs dikin.",
+            "Ez kêfxweşim ku êdî hûn û malbata we li OMO.DENT bi awayekî kesane pêşwazî bikim.",
+            "Max Mustermann\r\nDoktorê dîranan"
+        ],
+        "features": [
+            {
+                "title": "Tîma naskirî",
+                "desc": "Tîma klînîkê ya hevgirtî ji bo we amade ye — wekî her dem."
+            },
+            {
+                "title": "Kalîteya wekî berê",
+                "desc": "Asta herî bilind a dermanê dîranan, bi berdewamî."
+            },
+            {
+                "title": "Veguheztina aram",
+                "desc": "Dermana we bê perçe û bi baldarî didomîne."
+            }
+        ]
+    },
+    "team": {
+        "hero_title": "Tîma Me",
+        "hero_text": "Tîma klînîka OMO.DENT nas bike — bi tecrubeyê, baldarî û hevgirtineke germ ji bo we û ji bo malbata we.",
+        "members": {
+            "mc397a2fb": {
+                "role": "Doktorê dîranan",
+                "description": ""
+            },
+            "mea0ffe6b": {
+                "role": "",
+                "description": "Rêvebera hesaban, rêvebiriya klînîkê, asîstena pêşîlêgirtina dîranan (ZMP), rêvebiriya kalîteyê."
+            },
+            "m2e6e74dd": {
+                "role": "",
+                "description": "Dermanê dîranan, pêşîlêgirtin û lênêrîna zarokistanê."
+            },
+            "m5a50f87c": {
+                "role": "",
+                "description": "Karmenda pispor a dermanê dîranan (ZFA) bi bingehî di qada pêşîlêgirtinê de dixebite."
+            },
+            "m84d86398": {
+                "role": "",
+                "description": "Hunermenda fêrê di sala sêyemîn a perwerdeya karmenda pispor a dermanê dîranan (ZFA) de, li ser kursiya asîstanê."
+            }
+        }
+    }
+}

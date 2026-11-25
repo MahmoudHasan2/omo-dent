@@ -1,0 +1,679 @@
+{
+    "site": {
+        "practice_name": "OMO.DENT",
+        "practice_tagline": "ZAHNARZTPRAXIS FÜR DIE GANZE FAMILIE",
+        "logo_text_1": "OMO.",
+        "logo_text_2": "DENT",
+        "doctor_name": "Dr. M. Mustermann",
+        "doctor_title": "Zahnarzt",
+        "logo_image": "uploads/1__1__7a64bb25.png",
+        "favicon": "uploads/ChatGPT_Image_1__Sept__2026__21_45_18_85060ef7.png",
+        "phone": "0000 / 000000",
+        "fax": "0000 / 000001",
+        "email": "info@omo-zahnarzt.de",
+        "website": "www.omo-dent.de",
+        "address_line1": "Musterstraße 1",
+        "address_line2": "48431 Rheine",
+        "address_line3": "Deutschland",
+        "hours_line1": "Mo, Di, Do: 09:00–13:00, 14:30–18:00",
+        "hours_line2": "Mi, Fr: 09:00–13:30",
+        "hours_line3": "und nach Vereinbarung",
+        "footer_tagline": "Ihre zahnärztliche Versorgung in vertrauten und neuen Händen.",
+        "copyright": "© 2026 OMO.DENT — Alle Rechte vorbehalten.",
+        "map_embed": "https://www.google.com/maps?q=Musterstraße+1,+48431+Rheine&hl=de&z=16&output=embed",
+        "colors": {
+            "primary_blue": "#0c4260",
+            "primary_teal": "#3e9b5e",
+            "accent_green": "#14566d",
+            "background": "#f0f4f8",
+            "text_primary": "#061d23",
+            "text_secondary": "#14566d",
+            "surface": "#FFFFFF"
+        },
+        "loader_enabled": "1"
+    },
+    "nav": {
+        "home": "Startseite",
+        "leistungen": "Leistungen",
+        "ueber_mich": "Über mich",
+        "team": "Unser Team"
+    },
+    "home": {
+        "welcome_title": "HERZLICH WILLKOMMEN!",
+        "hero_title": "Gesunde Zähne. Ein Leben lang.",
+        "hero_text": "Willkommen bei OMO.DENT – Ihrer Zahnarztpraxis für die ganze Familie. Bei OMO.DENT stehen Sie und Ihre Zahngesundheit im Mittelpunkt.",
+        "hero_button": "DR-Flex Termin vereinbaren",
+        "hero_image": "uploads/WhatsApp_Image_2026-09-16_at_20_50_21_5f163809_ec09142b.jpeg",
+        "features": [
+            {
+                "icon": "heart",
+                "title": "Persönlich & vertrauensvoll",
+                "desc": "Wir nehmen uns Zeit für Sie – mit einer ehrlichen Beratung und einer Behandlung auf Augenhöhe."
+            },
+            {
+                "icon": "users",
+                "title": "Für die ganze Familie",
+                "desc": "Vom ersten Milchzahn bis ins hohe Alter: Bei uns sind Kinder, Eltern und Senioren gleichermaßen willkommen."
+            },
+            {
+                "icon": "sparkles",
+                "title": "Moderne Zahnheilkunde",
+                "desc": "Sorgfältige Diagnostik und individuell abgestimmte Behandlungskonzepte auf aktuellem Stand der Zahnmedizin."
+            }
+        ],
+        "intro_eyebrow": "Unsere Philosophie",
+        "intro_title": "Persönlich betreut, gemeinsam gesund",
+        "intro_closing": "Unser Ziel: gesunde Zähne, ein gutes Gefühl und ein Lächeln, das Sie gerne zeigen.",
+        "services_title": "Unsere Leistungen",
+        "services_subtitle": "Zahnmedizin für jedes Alter — von der ersten Milchzahnkontrolle bis zur Implantatversorgung.",
+        "services_link_text": "Alle Leistungen entdecken",
+        "about_preview_title": "Lernen Sie Ihren neuen Zahnarzt kennen",
+        "about_preview_text": "Herr Mustermann hat die Praxis von Dr. Beispiel übernommen und führt sie mit demselben Anspruch an Qualität und persönliche Betreuung fort — mit vertrautem Team und gewohnter Sorgfalt.",
+        "about_preview_button": "Mehr über mich",
+        "contact_title": "Kontakt & Anfahrt",
+        "contact_subtitle": "Wir freuen uns auf Sie — schreiben Sie uns oder besuchen Sie uns direkt in der Praxis.",
+        "contact_info_title": "So erreichen Sie uns",
+        "form_title": "Nachricht senden",
+        "form_subtitle": "Füllen Sie das Formular aus und wir melden uns umgehend bei Ihnen.",
+        "intro_paragraphs": [
+            "Wir möchten, dass sich Kinder, Erwachsene und Senioren bei uns gleichermaßen gut aufgehoben fühlen – persönlich, vertrauensvoll und in angenehmer Atmosphäre.",
+            "Mit moderner Zahnmedizin, sorgfältiger Diagnostik und individuell abgestimmten Behandlungskonzepten begleiten wir Sie langfristig auf dem Weg zu gesunden und schönen Zähnen.",
+            "Von der regelmäßigen Vorsorge und Zahnerhaltung über Endodontologie und ästhetische Zahnmedizin bis hin zu hochwertigem Zahnersatz, Implantologie und Kinderzahnheilkunde bieten wir ein breites Behandlungsspektrum."
+        ]
+    },
+    "leistungen": {
+        "hero_title": "Unsere Leistungen",
+        "hero_text": "Bei OMO.DENT bieten wir moderne Zahnmedizin für die ganze Familie — einfühlsam, sorgfältig und auf dem neuesten Stand der Technik.",
+        "services": [
+            {
+                "image": "uploads/ChatGPT_Image_1__Sept__2026__21_35_34_65bf681b.png",
+                "id": "s68717dad",
+                "title": "Prophylaxe",
+                "subtitle": "Professionelle Vorsorge für langfristig gesunde Zähne.",
+                "summary": "Professionelle Vorsorge für langfristig gesunde Zähne.",
+                "what_is": "Regelmäßige Prophylaxe hilft, Zähne und Zahnfleisch gesund zu erhalten und Erkrankungen frühzeitig vorzubeugen. Dazu gehören je nach individuellem Bedarf die professionelle Zahnreinigung, die Entfernung harter und weicher Beläge sowie eine persönliche Beratung zur optimalen Mundhygiene zu Hause.",
+                "approach": "Unser Ziel ist es, Risiken für Karies und Zahnfleischerkrankungen zu reduzieren und Ihre natürlichen Zähne möglichst lange gesund zu erhalten.",
+                "faqs": [
+                    {
+                        "id": "f37558d13",
+                        "q": "Wie oft sollte eine professionelle Zahnreinigung erfolgen?",
+                        "a": "Für die ganze Familie empfehlen wir eine professionelle Zahnreinigung alle 6 Monate.\nBei  Erkrankung des Zahnhalteapparat (Parodontitis)  empfehlen wir kurzer Abstände alle 3-4 Monate."
+                    },
+                    {
+                        "id": "f59bd98e9",
+                        "q": "Was umfasst die Vorsorgeuntersuchung?",
+                        "a": "Kontrolle auf Karies und Zahnfleischerkrankungen, Mundhygiene-Beratung und bei Bedarf Röntgendiagnostik."
+                    },
+                    {
+                        "id": "f20fb79d7",
+                        "q": "Ist Prophylaxe auch für Kinder sinnvoll?",
+                        "a": "Ja, gerade bei Kindern legt frühzeitige Prophylaxe den Grundstein für lebenslange Zahngesundheit."
+                    }
+                ],
+                "gallery": []
+            },
+            {
+                "image": "uploads/ChatGPT_Image_1__Sept__2026__21_41_55_7a110f9d_b482389c.png",
+                "id": "s450fc6b3",
+                "title": "Zahnerhaltung",
+                "subtitle": "Moderne Behandlung mit dem Ziel, natürliche Zähne möglichst lange zu erhalten.",
+                "summary": "Moderne Behandlung mit dem Ziel, natürliche Zähne möglichst lange zu erhalten.",
+                "what_is": "Die Zahnerhaltung umfasst verschiedene Maßnahmen, die geschädigte oder erkrankte Zähne stabilisieren und ihre Funktion bewahren. Dazu können hochwertige Füllungstherapien, die Versorgung kleinerer Defekte und weitere zahnerhaltende Behandlungen gehören.",
+                "approach": "Welche Therapie sinnvoll ist, entscheiden wir nach einer sorgfältigen Untersuchung individuell und möglichst substanzschonend.",
+                "faqs": [
+                    {
+                        "id": "feda70d5c",
+                        "q": "Wann ist eine zahnerhaltende Behandlung sinnvoll?",
+                        "a": "Immer dann, wenn ein Zahn durch Karies oder Abnutzung geschädigt ist, aber noch erhalten werden kann."
+                    },
+                    {
+                        "id": "f8ffba03d",
+                        "q": "Welche Materialien werden für Füllungen verwendet?",
+                        "a": "Wir setzen auf hochwertige, zahnfarbene Füllungsmaterialien für ein natürliches Ergebnis."
+                    },
+                    {
+                        "id": "f9de7cdfb",
+                        "q": "Wie lange hält eine Füllung?",
+                        "a": "Bei guter Pflege halten moderne Füllungen viele Jahre — die genaue Haltbarkeit hängt vom individuellen Fall ab."
+                    }
+                ],
+                "gallery": []
+            },
+            {
+                "image": "uploads/ChatGPT_Image_1__Sept__2026__21_34_07_f1e3c153.png",
+                "id": "sb63707d2",
+                "title": "Endodontologie",
+                "subtitle": "Wurzelkanalbehandlung zum Erhalt entzündeter oder geschädigter Zähne.",
+                "summary": "Wurzelkanalbehandlung zum Erhalt entzündeter oder geschädigter Zähne.",
+                "what_is": "Wenn sich der Zahnnerv entzündet oder abstirbt, kann eine Wurzelkanalbehandlung den betroffenen Zahn häufig erhalten. Dabei werden die Wurzelkanäle sorgfältig gereinigt, desinfiziert und anschließend dicht verschlossen.",
+                "approach": "Moderne Verfahren ermöglichen eine präzise Behandlung mit dem Ziel, Beschwerden zu beseitigen und den eigenen Zahn langfristig zu bewahren.",
+                "faqs": [
+                    {
+                        "id": "f8340d8d0",
+                        "q": "Wann ist eine Wurzelbehandlung nötig?",
+                        "a": "Wenn das Zahnmark durch tiefe Karies oder ein Trauma entzündet oder infiziert ist."
+                    },
+                    {
+                        "id": "f4634c22e",
+                        "q": "Tut eine Wurzelbehandlung weh?",
+                        "a": "Dank moderner Betäubung ist der Eingriff in der Regel schmerzarm."
+                    },
+                    {
+                        "id": "fe9d35548",
+                        "q": "Wie viele Termine sind nötig?",
+                        "a": "Meist 3 Termine, je nach Komplexität des Falls."
+                    }
+                ],
+                "gallery": []
+            },
+            {
+                "image": "uploads/ChatGPT_Image_1__Sept__2026__21_40_00_805f3f0c.png",
+                "id": "s175ec0ca",
+                "title": "Ästhetische Zahnmedizin",
+                "subtitle": "Für ein natürlich schönes, harmonisches Lächeln.",
+                "summary": "Für ein natürlich schönes, harmonisches Lächeln.",
+                "what_is": "Ästhetische Zahnmedizin verbindet Zahngesundheit mit einem ansprechenden Erscheinungsbild. Je nach Ausgangssituation können beispielsweise Bleaching, ästhetische Kompositfüllungen oder Veneers infrage kommen.",
+                "approach": "Im Mittelpunkt steht immer ein Ergebnis, das zu Ihrem Gesicht, Ihrer Zahnform und Ihren persönlichen Wünschen passt und dabei möglichst natürlich wirkt.",
+                "faqs": [
+                    {
+                        "id": "f65464ec3",
+                        "q": "Welche Behandlungen gehören dazu?",
+                        "a": "Bleaching, Veneers und zahnfarbene Füllungen für ein natürlich schönes Lächeln."
+                    },
+                    {
+                        "id": "f3ed915ad",
+                        "q": "Ist Bleaching schädlich für den Zahnschmelz?",
+                        "a": "Bei fachgerechter Durchführung schont Bleaching den Zahnschmelz."
+                    },
+                    {
+                        "id": "fba2f3953",
+                        "q": "Wie lange hält das Ergebnis?",
+                        "a": "Je nach Pflege und Lebensgewohnheiten hält ein Aufhellungsergebnis 1-3 Jahre."
+                    }
+                ],
+                "gallery": []
+            },
+            {
+                "image": "https://www.clinicamarchetti.it/files/pages/31/recessione-gengive.jpg",
+                "id": "scf947975",
+                "title": "Parodontologie",
+                "subtitle": "Gesundes Zahnfleisch für einen starken Zahnhalteapparat.",
+                "summary": "Gezielte Behandlung von Zahnfleischentzündungen und Parodontitis zum langfristigen Erhalt Ihrer Zähne.",
+                "what_is": "Die Parodontologie beschäftigt sich mit der Gesundheit des Zahnfleisches und des gesamten Zahnhalteapparates. Eine unbehandelte Parodontitis kann den Kieferknochen abbauen und langfristig zum Verlust von Zähnen führen. Eine frühzeitige Diagnose und individuelle Behandlung helfen dabei, die Erkrankung aufzuhalten und die Mundgesundheit langfristig zu erhalten.",
+                "approach": "Bei OMO.DENT setzen wir auf eine sorgfältige Diagnostik, eine individuell abgestimmte Behandlung und eine konsequente Nachsorge. Dabei berücksichtigen wir den Zustand des Zahnfleisches, die Mundhygiene und persönliche Risikofaktoren. Unser Ziel ist es, Entzündungen zu reduzieren, den Zahnhalteapparat zu stabilisieren und Ihre natürlichen Zähne möglichst lange zu erhalten.",
+                "faqs": [
+                    {
+                        "id": "f96bf8ea0",
+                        "q": "Woran erkenne ich eine Parodontitis?",
+                        "a": "Typische Anzeichen sind Zahnfleischbluten, gerötetes oder geschwollenes Zahnfleisch, Zahnfleischrückgang, Mundgeruch oder empfindliche und locker werdende Zähne. Da eine Parodontitis anfangs oft kaum Beschwerden verursacht, sind regelmäßige Kontrolluntersuchungen besonders wichtig."
+                    },
+                    {
+                        "id": "f52535c33",
+                        "q": "Wie wird eine Parodontitis behandelt?",
+                        "a": "Zunächst wird der Zustand des Zahnfleisches und des Zahnhalteapparates gründlich untersucht. Je nach Befund werden bakterielle Beläge und Ablagerungen oberhalb und unterhalb des Zahnfleischrandes entfernt und die Mundhygiene gezielt verbessert. Anschließend wird der Behandlungserfolg kontrolliert und durch regelmäßige Nachsorge langfristig gesichert."
+                    },
+                    {
+                        "id": "f7090d5cf",
+                        "q": "Kann ich Parodontitis verhindern?",
+                        "a": "Das Risiko lässt sich durch eine gründliche tägliche Mundhygiene, die Reinigung der Zahnzwischenräume, regelmäßige zahnärztliche Kontrollen und eine professionelle Unterstützung bei Bedarf deutlich reduzieren. Auch der Verzicht auf Rauchen kann das Risiko und den Verlauf der Erkrankung positiv beeinflussen."
+                    }
+                ],
+                "gallery": []
+            },
+            {
+                "image": "uploads/WhatsApp_Image_2026-09-16_at_22_16_52_4c1e8fe3.jpeg",
+                "id": "s6183ae6d",
+                "title": "Zahnvorsorge für Kinder",
+                "subtitle": "Gesunde Kinderzähne von Anfang an.",
+                "summary": "Frühzeitige Vorsorge schützt Kinderzähne vor Karies und schafft die Grundlage für eine lebenslange Zahngesundheit.",
+                "what_is": "Die Zahnvorsorge für Kinder umfasst regelmäßige zahnärztliche Untersuchungen, die Kontrolle der Zahnentwicklung sowie eine individuelle Beratung zu Mundhygiene und Ernährung. Je nach Alter und Kariesrisiko können zusätzliche Maßnahmen wie Fluoridierung oder eine Fissurenversiegelung sinnvoll sein. So können Probleme frühzeitig erkannt und behandelt werden.",
+                "approach": "Wir möchten, dass Kinder den Zahnarztbesuch von Anfang an als positive Erfahrung kennenlernen. Deshalb legen wir Wert auf eine kindgerechte, einfühlsame Untersuchung und erklären jeden Schritt verständlich. Gemeinsam mit den Eltern entwickeln wir eine passende Vorsorgestrategie, damit Zähne und Zahnfleisch gesund bleiben und sich Kinder sicher beim Zahnarzt fühlen.",
+                "faqs": [
+                    {
+                        "id": "f046a0a09",
+                        "q": "Ab wann sollte mein Kind zum Zahnarzt?",
+                        "a": "Die zahnärztliche Vorsorge sollte bereits im Kleinkindalter beginnen. Frühe Untersuchungen helfen dabei, die Zahnentwicklung zu beobachten, das Kariesrisiko einzuschätzen und Eltern frühzeitig zu Mundhygiene und Ernährung zu beraten."
+                    },
+                    {
+                        "id": "fc70c7080",
+                        "q": "Wie kann ich Karies bei meinem Kind vorbeugen?",
+                        "a": "Regelmäßiges Zähneputzen mit einer geeigneten fluoridhaltigen Zahnpasta, eine zahngesunde Ernährung und regelmäßige Kontrolltermine sind wichtige Bausteine der Kariesvorsorge. Je nach Alter und individuellem Kariesrisiko können zusätzlich Fluoridlack oder andere vorbeugende Maßnahmen sinnvoll sein."
+                    },
+                    {
+                        "id": "fb6bc8821",
+                        "q": "Was ist eine Fissurenversiegelung und wann ist sie sinnvoll?",
+                        "a": "Bei einer Fissurenversiegelung werden tiefe Furchen und Grübchen auf den Kauflächen bestimmter Backenzähne mit einem speziellen Kunststoff verschlossen. Dadurch können sich dort weniger Bakterien und Speisereste festsetzen. Bei Kindern mit besonders kariesgefährdeten bleibenden Backenzähnen kann diese in der Regel schmerzfreie Maßnahme sinnvoll sein."
+                    }
+                ],
+                "gallery": []
+            }
+        ],
+        "tech_title": "Moderne Technik für Ihre Gesundheit",
+        "tech_image": "uploads/WhatsApp_Image_2026-09-16_at_22_06_11_6885fd3a.jpeg",
+        "tech_image_secondary": "",
+        "tech_paragraphs": [
+            "In unserer Praxis setzen wir auf moderne diagnostische und therapeutische Verfahren, um Ihnen und Ihrer Familie die bestmögliche Behandlung zu bieten.",
+            "Von der digitalen Röntgendiagnostik bis zur schonenden Behandlungstechnik — wir kombinieren bewährte Erfahrung mit zeitgemäßer Ausstattung.",
+            "So profitieren Sie von präzisen Diagnosen, schonenden Eingriffen und einem Höchstmaß an Behandlungssicherheit."
+        ]
+    },
+    "ueber_mich": {
+        "photo": "uploads/ChatGPT_Image_3__Sept__2026__21_04_25_63dea892_473bda04.jpeg",
+        "intro_title": "HERZLICH WILLKOMMEN!",
+        "hero_title": "Über mich",
+        "quote": "Zahnmedizin mit Vertrauen und persönlicher Betreuung.",
+        "credentials_title": "Fortbildung & Schwerpunkte",
+        "credentials": [
+            "Zahnmedizinstudium und Staatsexamen, Heinrich-Heine-Universität Düsseldorf",
+            "Fortbildungen im Bereich Endodontie",
+            "Curriculum Implantologie"
+        ],
+        "features": [
+            {
+                "icon": "users",
+                "title": "Vertrautes Team",
+                "desc": "Das eingespielte Praxisteam ist für Sie da — wie gewohnt."
+            },
+            {
+                "icon": "award",
+                "title": "Gewohnte Qualität",
+                "desc": "Hohe zahnmedizinische Standards, konsequent fortgeführt."
+            },
+            {
+                "icon": "heart",
+                "title": "Reibungsloser Übergang",
+                "desc": "Ihre Behandlung wird nahtlos und sorgfältig weitergeführt."
+            }
+        ],
+        "paragraphs": [
+            "Über mich",
+            "Dr. Max Mustermann ist Zahnarzt und leitet die Praxis. (Beispieltext – der echte Text wird im Dashboard gepflegt.)",
+            "Im Juli 2021 schloss ich mein Studium der Zahnmedizin an der Heinrich-Heine-Universität Düsseldorf erfolgreich mit dem Staatsexamen ab. Im August 2021 erhielt ich die Approbation als Zahnarzt.",
+            "Nach meinem Studium begann ich meine zahnärztliche Tätigkeit und sammelte in verschiedenen Zahnarztpraxen wertvolle Berufserfahrung. Darüber hinaus absolvierte ich das Curriculum Implantologie, um meine Kenntnisse in diesem Bereich gezielt zu vertiefen.",
+            "In meiner täglichen Arbeit lege ich besonderen Wert auf eine sorgfältige Diagnostik, eine verständliche und ehrliche Beratung sowie eine möglichst angenehme Behandlung. Mir ist wichtig, dass sich meine Patientinnen und Patienten gut informiert, ernst genommen und vertrauensvoll begleitet fühlen.",
+            "Als Familienvater liegt mir eine familienfreundliche Atmosphäre besonders am Herzen. Dieser Gedanke ist auch ein wichtiger Bestandteil der OMO.DENT-Idee: eine moderne Zahnarztpraxis, in der sich Kinder, Eltern und Erwachsene gleichermaßen willkommen und gut aufgehoben fühlen.",
+            "Ich freue mich darauf, Sie und Ihre Familie persönlich bei OMO.DENT begrüßen zu dürfen.",
+            "Dr. Max Mustermann\nZahnarzt"
+        ]
+    },
+    "datenschutz": {
+        "title": "Datenschutzerklärung",
+        "blocks": [
+            {
+                "level": "h2",
+                "title": "1. Verantwortlicher",
+                "lines": [
+                    "Verantwortlich für die Datenverarbeitung auf dieser Website im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:",
+                    "",
+                    "Dr. Max Mustermann, Zahnarzt",
+                    "OMO.DENT",
+                    "Musterstraße 1",
+                    "48431 Rheine",
+                    "Telefon: 0000 / 000000",
+                    "E-Mail: info@omo-zahnarzt.de",
+                    "",
+                    "Verantwortlicher ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung personenbezogener Daten entscheidet."
+                ]
+            },
+            {
+                "level": "h2",
+                "title": "2. Allgemeines zur Datenverarbeitung",
+                "lines": [
+                    "Wir verarbeiten personenbezogene Daten der Besucher unserer Website nur, soweit dies zur Bereitstellung einer funktionsfähigen Website sowie unserer Inhalte und Leistungen erforderlich ist oder Sie eingewilligt haben. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können.",
+                    "",
+                    "Diese Website setzt keine Analyse- oder Tracking-Werkzeuge, keine Werbe-Cookies und keine Social-Media-Plugins ein."
+                ]
+            },
+            {
+                "level": "h2",
+                "title": "3. Hosting",
+                "lines": [
+                    "Diese Website wird bei folgendem Anbieter gehostet:",
+                    "",
+                    "Hostinger International Ltd.",
+                    "61 Lordou Vironos Street",
+                    "6023 Larnaka, Zypern",
+                    "",
+                    "Alle beim Besuch der Website sowie über das Kontaktformular erfassten Daten werden auf den Servern des Hosters verarbeitet und gespeichert. Mit dem Hoster besteht ein Vertrag über die Auftragsverarbeitung nach Art. 28 DSGVO, der sicherstellt, dass die Daten nur nach unseren Weisungen und unter Einhaltung der DSGVO verarbeitet werden.",
+                    "",
+                    "Rechtsgrundlage ist unser berechtigtes Interesse an einer sicheren und zuverlässigen Bereitstellung unserer Website (Art. 6 Abs. 1 lit. f DSGVO).",
+                    "",
+                    "Weitere Informationen: https://www.hosting-provider.example/legal/privacy-policy"
+                ]
+            },
+            {
+                "level": "h2",
+                "title": "4. Server-Logfiles",
+                "lines": [
+                    "Bei jedem Aufruf unserer Website erfasst der Server automatisch Informationen, die Ihr Browser übermittelt:",
+                    "",
+                    "– IP-Adresse des anfragenden Geräts",
+                    "– Datum und Uhrzeit des Zugriffs",
+                    "– aufgerufene Seite bzw. Datei",
+                    "– Referrer-URL (zuvor besuchte Seite)",
+                    "– Browsertyp und -version, verwendetes Betriebssystem",
+                    "– übertragene Datenmenge und HTTP-Statuscode",
+                    "",
+                    "Diese Daten werden nicht mit anderen Datenquellen zusammengeführt. Sie werden benötigt, um die Website technisch auszuliefern sowie Stabilität und Sicherheit zu gewährleisten (z. B. zur Abwehr von Angriffen). Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO.",
+                    "",
+                    "Die Server-Logfiles werden nach 7 Tagen automatisch gelöscht."
+                ]
+            },
+            {
+                "level": "h2",
+                "title": "5. SSL-/TLS-Verschlüsselung",
+                "lines": [
+                    "Diese Website nutzt aus Sicherheitsgründen eine SSL- bzw. TLS-Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie an „https://“ in der Adresszeile und am Schloss-Symbol Ihres Browsers. Daten, die Sie an uns übermitteln, etwa über das Kontaktformular, können dadurch auf dem Übertragungsweg nicht von Dritten mitgelesen werden."
+                ]
+            },
+            {
+                "level": "h2",
+                "title": "6. Cookies",
+                "lines": [
+                    "Unsere Website verwendet ausschließlich ein technisch notwendiges Sitzungs-Cookie (PHPSESSID). Es speichert lediglich die von Ihnen gewählte Sprache der Website und wird gelöscht, sobald Sie Ihren Browser schließen. Für dieses Cookie ist keine Einwilligung erforderlich (§ 25 Abs. 2 Nr. 2 TDDDG); die weitere Verarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO.",
+                    "",
+                    "Weitere Cookies, insbesondere zu Analyse- oder Werbezwecken, setzen wir nicht ein."
+                ]
+            },
+            {
+                "level": "h2",
+                "title": "7. Kontaktformular",
+                "lines": [
+                    "Wenn Sie uns über das Kontaktformular eine Anfrage senden, verarbeiten wir die von Ihnen eingegebenen Daten (Vor- und Nachname, Telefonnummer, E-Mail-Adresse, Angabe, ob Sie bereits Patient sind, Ihre Nachricht) sowie gegebenenfalls von Ihnen hochgeladene Dokumente. Zusätzlich wird die eingestellte Sprache der Website übermittelt.",
+                    "",
+                    "Ihre Angaben werden verschlüsselt (TLS) an unseren Server übertragen, dort in einem passwortgeschützten, nicht öffentlich zugänglichen Bereich gespeichert und per E-Mail an das Postfach der Praxis (info@omo-zahnarzt.de) weitergeleitet. Zugriff haben ausschließlich der Praxisinhaber und befugte Mitarbeiterinnen und Mitarbeiter, die der zahnärztlichen Schweigepflicht unterliegen.",
+                    "",
+                    "Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO, soweit Ihre Anfrage mit der Anbahnung oder Durchführung eines Behandlungsvertrags zusammenhängt, im Übrigen unser berechtigtes Interesse an der Beantwortung von Anfragen (Art. 6 Abs. 1 lit. f DSGVO)."
+                ]
+            },
+            {
+                "level": "h3",
+                "title": "Gesundheitsdaten",
+                "lines": [
+                    "Über das Formular können Sie uns freiwillig Dokumente wie Befunde oder Röntgenbilder übermitteln. Dabei handelt es sich um Gesundheitsdaten und damit um besondere Kategorien personenbezogener Daten (Art. 9 DSGVO). Wir verarbeiten diese ausschließlich zur Vorbereitung und Durchführung Ihrer zahnärztlichen Behandlung bzw. zur Beantwortung Ihrer Anfrage (Art. 9 Abs. 2 lit. h, Abs. 3 DSGVO i. V. m. § 22 Abs. 1 Nr. 1 lit. b BDSG). Bitte übermitteln Sie nur Dokumente, die für Ihr Anliegen erforderlich sind.",
+                    "",
+                    "Speicherdauer: Die Daten werden vom Webserver gelöscht, sobald Ihre Anfrage abschließend bearbeitet ist. Werden Daten Teil Ihrer Patientendokumentation, bewahren wir diese entsprechend den gesetzlichen Aufbewahrungspflichten auf (in der Regel 10 Jahre nach Abschluss der Behandlung, § 630f Abs. 3 BGB)."
+                ]
+            },
+            {
+                "level": "h2",
+                "title": "8. Anfrage per E-Mail, Telefon oder Telefax",
+                "lines": [
+                    "Wenn Sie uns per E-Mail, Telefon oder Telefax kontaktieren, verarbeiten wir Ihre Anfrage einschließlich der daraus hervorgehenden personenbezogenen Daten zum Zweck der Bearbeitung Ihres Anliegens. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO bzw. Art. 6 Abs. 1 lit. f DSGVO, für Gesundheitsdaten Art. 9 Abs. 2 lit. h DSGVO i. V. m. § 22 BDSG. Bitte beachten Sie, dass unverschlüsselte E-Mails auf dem Übertragungsweg von Dritten eingesehen werden können."
+                ]
+            },
+            {
+                "level": "h2",
+                "title": "9. Google Maps",
+                "lines": [
+                    "Auf unserer Startseite können Sie eine Karte des Kartendienstes Google Maps anzeigen lassen. Anbieter ist die Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland.",
+                    "",
+                    "Die Karte wird nicht automatisch geladen. Erst wenn Sie auf „Karte laden“ klicken, wird eine Verbindung zu Servern von Google hergestellt. Dabei werden insbesondere Ihre IP-Adresse, Datum und Uhrzeit des Aufrufs, die aufgerufene Seite sowie Angaben zu Ihrem Browser an Google übermittelt; Google kann hierbei auch Cookies setzen. Ohne Ihren Klick werden keine Daten an Google übertragen. Alternativ können Sie über einen Link die Route direkt auf der Website von Google Maps aufrufen.",
+                    "",
+                    "Rechtsgrundlage ist Ihre Einwilligung (Art. 6 Abs. 1 lit. a DSGVO, § 25 Abs. 1 TDDDG), die Sie durch den Klick erteilen. Die Einwilligung gilt nur für den jeweiligen Seitenaufruf; laden Sie die Seite neu, wird die Karte erst nach einem erneuten Klick angezeigt.",
+                    "",
+                    "Dabei können Daten auch an die Google LLC in die USA übermittelt werden. Die Google LLC ist nach dem EU-US Data Privacy Framework zertifiziert; für die USA liegt insoweit ein Angemessenheitsbeschluss der EU-Kommission vor (Art. 45 DSGVO).",
+                    "",
+                    "Weitere Informationen: https://policies.google.com/privacy"
+                ]
+            },
+            {
+                "level": "h2",
+                "title": "10. Schriftarten",
+                "lines": [
+                    "Die auf dieser Website verwendeten Schriftarten (Poppins und Inter) sind lokal auf unserem Server eingebunden. Beim Aufruf der Seite wird keine Verbindung zu Servern von Google oder anderen Drittanbietern hergestellt."
+                ]
+            },
+            {
+                "level": "h2",
+                "title": "11. Ihre Rechte",
+                "lines": [
+                    "Sie haben im Rahmen der gesetzlichen Bestimmungen jederzeit folgende Rechte:",
+                    "",
+                    "– Auskunft über Ihre gespeicherten Daten (Art. 15 DSGVO)",
+                    "– Berichtigung unrichtiger Daten (Art. 16 DSGVO)",
+                    "– Löschung Ihrer Daten (Art. 17 DSGVO)",
+                    "– Einschränkung der Verarbeitung (Art. 18 DSGVO)",
+                    "– Datenübertragbarkeit (Art. 20 DSGVO)",
+                    "– Widerruf einer erteilten Einwilligung mit Wirkung für die Zukunft (Art. 7 Abs. 3 DSGVO)",
+                    "",
+                    "Widerspruchsrecht (Art. 21 DSGVO): Soweit wir Daten auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO verarbeiten, können Sie aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit Widerspruch gegen die Verarbeitung einlegen.",
+                    "",
+                    "Zur Ausübung Ihrer Rechte genügt eine formlose Mitteilung an die oben genannten Kontaktdaten."
+                ]
+            },
+            {
+                "level": "h3",
+                "title": "Beschwerderecht bei der Aufsichtsbehörde",
+                "lines": [
+                    "Sie haben das Recht, sich bei einer Datenschutz-Aufsichtsbehörde zu beschweren. Für uns zuständig ist:",
+                    "",
+                    "Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen",
+                    "Musterstraße 1–4",
+                    "40213 Düsseldorf",
+                    "https://www.ldi.nrw.de"
+                ]
+            },
+            {
+                "level": "h2",
+                "title": "12. Pflicht zur Bereitstellung, automatisierte Entscheidungen",
+                "lines": [
+                    "Die Bereitstellung Ihrer Daten über das Kontaktformular ist freiwillig. Ohne die als Pflichtfelder gekennzeichneten Angaben können wir Ihre Anfrage jedoch nicht bearbeiten. Eine automatisierte Entscheidungsfindung einschließlich Profiling (Art. 22 DSGVO) findet nicht statt."
+                ]
+            },
+            {
+                "level": "h2",
+                "title": "13. Aktualität",
+                "lines": [
+                    "Stand dieser Datenschutzerklärung: Oktober 2026. Wir passen sie an, sobald sich die Website oder die rechtlichen Vorgaben ändern."
+                ]
+            }
+        ]
+    },
+    "impressum": {
+        "title": "Impressum",
+        "blocks": [
+            {
+                "level": "h2",
+                "title": "Angaben gemäß § 5 DDG",
+                "lines": [
+                    "Dr. Max Mustermann",
+                    "Zahnarzt",
+                    "OMO.DENT",
+                    "Musterstraße 1",
+                    "48431 Rheine"
+                ]
+            },
+            {
+                "level": "h2",
+                "title": "Kontakt",
+                "lines": [
+                    "Telefon: 0000 / 000000",
+                    "Fax: 0000 / 000001",
+                    "E-Mail: info@omo-zahnarzt.de"
+                ]
+            },
+            {
+                "level": "h2",
+                "title": "Zuständige Kammer",
+                "lines": [
+                    "Zahnärztekammer Westfalen-Lippe",
+                    "Auf der Horst 29",
+                    "48147 Münster",
+                    "https://www.zahnaerzte-wl.de"
+                ]
+            },
+            {
+                "level": "h2",
+                "title": "Zuständige Aufsichtsbehörde",
+                "lines": [
+                    "Kassenzahnärztliche Vereinigung Westfalen-Lippe",
+                    "Auf der Horst 25",
+                    "48147 Münster",
+                    "https://www.zahnaerzte-wl.de"
+                ]
+            },
+            {
+                "level": "h2",
+                "title": "Berufsbezeichnung und berufsrechtliche Regelungen",
+                "lines": [
+                    "Berufsbezeichnung: Zahnarzt (verliehen in der Bundesrepublik Deutschland)",
+                    "",
+                    "Es gelten folgende berufsrechtliche Regelungen:",
+                    "",
+                    "Zahnheilkundegesetz (ZHG):",
+                    "https://www.gesetze-im-internet.de/zhg/",
+                    "",
+                    "Heilberufsgesetz NRW (HeilBerG):",
+                    "https://recht.nrw.de/system/files/pdf/state-law-and-regulations/2004/07/12/44253c/2024-02-09-heilberufsgesetz-heilberg.pdf",
+                    "",
+                    "Gebührenordnung für Zahnärzte (GOZ):",
+                    "https://www.gesetze-im-internet.de/goz_1987/",
+                    "",
+                    "Berufsordnung der Zahnärztekammer Westfalen-Lippe:",
+                    "https://recht.nrw.de/system/files/pdf/state-law-ministerial-gazette/2006/02/02/8addaf/berufsordnung-der-zahnaerztekammer-westfalen-lippe.pdf"
+                ]
+            },
+            {
+                "level": "h2",
+                "title": "Angaben zur Berufshaftpflichtversicherung",
+                "lines": [
+                    "Name und Sitz des Versicherers:",
+                    "HDI",
+                    "HDI-Platz 1",
+                    "30659 Hannover",
+                    "",
+                    "Räumlicher Geltungsbereich: Deutschland"
+                ]
+            }
+        ]
+    },
+    "pdf_downloads": {
+        "button_text": "Formulare (PDF)",
+        "button_bg": "#2e8b78",
+        "button_text_color": "#ffffff",
+        "items": [
+            {
+                "name": "Patienteninformation",
+                "icon": "file-text",
+                "file": ""
+            },
+            {
+                "name": "Anamnesebogen",
+                "icon": "file-text",
+                "file": ""
+            },
+            {
+                "name": "Einverständniserklärung",
+                "icon": "file-text",
+                "file": ""
+            },
+            {
+                "name": "Preisliste",
+                "icon": "file-text",
+                "file": ""
+            }
+        ]
+    },
+    "team": {
+        "hero_title": "Unser Team",
+        "hero_text": "Lernen Sie das Praxisteam von OMO.DENT kennen — mit Erfahrung, Sorgfalt und einem freundlichen Miteinander für Sie und Ihre Familie da.",
+        "members": [
+            {
+                "photo": "uploads/ChatGPT_Image_3__Sept__2026__21_04_25_63dea892_712312f4.jpeg",
+                "id": "mc397a2fb",
+                "name": "Dr. Max Mustermann",
+                "role": "Zahnarzt",
+                "description": ""
+            },
+            {
+                "photo": "uploads/WhatsApp_Image_2026-09-18_at_13_30_58_a9ae89a0_6aa8de1c.jpeg",
+                "id": "mea0ffe6b",
+                "name": "Jessica Diekmann",
+                "role": "",
+                "description": "Fachwirtin für zahnärztliches Praxismanagement, Zahnmedizinische Prophylaxeassistentin (ZMP), Qualitätsmanagementbeauftragte (QMB).\nSchwerpunkte: Abrechnungsmanagement und Praxisorganisation."
+            },
+            {
+                "photo": "uploads/WhatsApp_Image_2026-08-28_at_12_18_23__1__d5e5e93a_2d81a4aa.jpeg",
+                "id": "m2e6e74dd",
+                "name": "Lisa Wipperfürth",
+                "role": "",
+                "description": "Zahnmedizinische Fachangestellte (ZFA)\nSchwerpunkte: Behandlungsassistenz, Prophylaxe und zahnmedizinische Betreuung von Kindergärten."
+            },
+            {
+                "photo": "uploads/WhatsApp_Image_2026-08-23_at_20_56_38_1fa97fd7_6bf921a7.jpeg",
+                "id": "m5a50f87c",
+                "name": "Celina Blömker",
+                "role": "",
+                "description": "Zahnmedizinische Fachangestellte (ZFA)\nSchwerpunkte: Prophylaxe und Behandlungsassistenz."
+            },
+            {
+                "photo": "uploads/WhatsApp_Image_2026-08-28_at_12_18_23__2__ca21a99f_b75f0374.jpeg",
+                "id": "m84d86398",
+                "name": "Florida Berisha",
+                "role": "",
+                "description": "Auszubildende zur Zahnmedizinischen Fachangestellten (ZFA), 3. Lehrjahr\nSchwerpunkt: Behandlungsassistenz."
+            }
+        ]
+    },
+    "ui": {
+        "nav_appointment": "Termin",
+        "menu_toggle": "Menü öffnen",
+        "footer_contact": "Kontakt",
+        "footer_hours": "Öffnungszeiten",
+        "footer_privacy": "Datenschutz",
+        "footer_imprint": "Impressum",
+        "label_address": "Adresse",
+        "label_phone": "Telefon",
+        "label_fax": "Fax",
+        "label_email": "E-Mail",
+        "hero_img_alt": "Familie beim Zahnarzt",
+        "stat_services": "Unsere\nLeistungen",
+        "stat_qualifications": "Qualifikationen",
+        "stat_personal": "Persönliche Betreuung",
+        "about_eyebrow": "Über {practice}",
+        "services_eyebrow": "Unsere Leistungen",
+        "read_more": "Mehr erfahren",
+        "map_title": "{practice} Standort",
+        "pdf_modal_title": "Dokumente herunterladen",
+        "pdf_soon": "Bald verfügbar",
+        "pdf_not_uploaded": "Diese Datei wurde noch nicht hochgeladen",
+        "close": "Schließen",
+        "form_name": "Vorname / Nachname",
+        "form_first": "Vorname",
+        "form_last": "Nachname",
+        "form_phone": "Telefon",
+        "form_email": "E-Mail-Adresse",
+        "form_email_ph": "ihre.email@beispiel.de",
+        "form_patient": "Sind Sie bereits Patient?",
+        "form_select": "Option auswählen",
+        "form_yes": "Ja, ich bin bereits Patient",
+        "form_no": "Nein, ich bin noch kein Patient",
+        "form_file": "Datei hochladen",
+        "form_file_hint": "Falls Sie uns ein Dokument senden möchten, können Sie es hier hochladen.",
+        "form_file_add": "Datei hinzufügen",
+        "form_message": "Nachricht",
+        "form_message_ph": "Wie können wir Ihnen helfen?",
+        "form_submit": "Nachricht senden",
+        "msg_sending": "Wird gesendet …",
+        "msg_success": "Ihre Anfrage wurde erfolgreich gesendet.",
+        "msg_required": "Bitte füllen Sie alle Pflichtfelder aus.",
+        "msg_email": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+        "msg_error": "Beim Senden ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.",
+        "msg_invalid": "Ungültige Anfrage.",
+        "back_services": "Zurück zu Leistungen",
+        "what_is": "Was ist {title}?",
+        "our_approach": "Unser Ansatz bei {practice}",
+        "faq_title": "Häufige Fragen",
+        "gallery_title": "Galerie",
+        "gallery_sub": "Weitere Eindrücke zu {title}.",
+        "meta_services": "Zahnmedizin für die ganze Familie bei {practice} — von der Kinderzahnheilkunde bis zur Parodontologie.",
+        "meta_about": "Lernen Sie {doctor}, Ihren Zahnarzt bei {practice}, kennen.",
+        "meta_team": "Lernen Sie das Praxisteam von {practice} kennen.",
+        "map_consent_text": "Zum Laden der Karte wird eine Verbindung zu Google hergestellt. Dabei werden u. a. Ihre IP-Adresse an Google (auch in die USA) übermittelt. Mehr dazu in unserer Datenschutzerklärung.",
+        "map_consent_btn": "Karte laden",
+        "map_open_link": "Route in Google Maps öffnen",
+        "form_privacy": "Ihre Angaben und hochgeladenen Dokumente (z. B. Befunde oder Röntgenbilder) verwenden wir ausschließlich zur Bearbeitung Ihrer Anfrage. Näheres in unserer",
+        "form_privacy_link": "Datenschutzerklärung"
+    }
+}
